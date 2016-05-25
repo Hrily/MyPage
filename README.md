@@ -11,7 +11,7 @@ Tested on:
 + Desktop
   - Mozilla Firefox
   - Opera
-+ Android]
++ Android
   - Mozilla Firefox
   - UC Browser
   - Chrome
